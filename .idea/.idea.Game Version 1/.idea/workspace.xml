@@ -30,19 +30,30 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/NoteInputHandler.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/SceneChange.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/StoryController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Plugins/Ink/Example/Scripts/BasicInkExample.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Walk.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Save.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/NoteInputHandler.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Plugins/Ink/Example/Scripts/QuitGameOnKeypress.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Global.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Character.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Assets/Scripts/SceneChange.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Walk.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Save.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ICharacter.cs" />
+        <option value="$PROJECT_DIR$/Assets/Plugins/Ink/Example/Scripts/BasicInkExample.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/NoteInputHandler.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Character.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Global.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/StoryController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Walk.cs" />
       </list>
     </option>
   </component>
@@ -94,6 +105,14 @@
       <workItem from="1571682728399" duration="6276000" />
       <workItem from="1571852578467" duration="7937000" />
       <workItem from="1571951834607" duration="3730000" />
+      <workItem from="1572285854952" duration="2720000" />
+      <workItem from="1572388100866" duration="4623000" />
+      <workItem from="1572399025015" duration="601000" />
+      <workItem from="1572456183618" duration="5760000" />
+      <workItem from="1572468766706" duration="371000" />
+      <workItem from="1572469280490" duration="2914000" />
+      <workItem from="1572725289104" duration="862000" />
+      <workItem from="1572896349231" duration="3072000" />
     </task>
     <servers />
   </component>
@@ -102,6 +121,19 @@
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="true" />
   </component>

@@ -5,6 +5,8 @@ using UnityEngine;
 using UnityEngine.UI;
 
 public class NoteInputHandler : MonoBehaviour
+//keeps track of note input for the various fields in the notebook
+//goes in and ou of the note editing mode
 {
     public InputField inputf1;
     public InputField inputf2;
