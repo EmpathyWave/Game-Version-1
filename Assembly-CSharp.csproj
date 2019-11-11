@@ -67,6 +67,8 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\Character.cs" />
     <Compile Include="Assets\Scripts\Global.cs" />
+    <Compile Include="Assets\Scripts\MapControls.cs" />
+    <Compile Include="Assets\Scripts\NoteControls.cs" />
     <Compile Include="Assets\Scripts\NoteInputHandler.cs" />
     <Compile Include="Assets\Scripts\StoryController.cs" />
     <Compile Include="Assets\Scripts\Walk.cs" />

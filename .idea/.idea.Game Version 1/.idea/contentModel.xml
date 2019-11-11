@@ -98,6 +98,8 @@
         <e p="Scripts" t="Include">
           <e p="Character.cs" t="Include" />
           <e p="Global.cs" t="Include" />
+          <e p="MapControls.cs" t="Include" />
+          <e p="NoteControls.cs" t="Include" />
           <e p="NoteInputHandler.cs" t="Include" />
           <e p="StoryController.cs" t="Include" />
           <e p="Walk.cs" t="Include" />

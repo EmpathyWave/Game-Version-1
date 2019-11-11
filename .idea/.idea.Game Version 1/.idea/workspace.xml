@@ -36,10 +36,12 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/StoryController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Plugins/Ink/Example/Scripts/BasicInkExample.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MapControls.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Walk.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/NoteInputHandler.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Plugins/Ink/Example/Scripts/QuitGameOnKeypress.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Global.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/NoteControls.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Character.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -51,9 +53,10 @@
         <option value="$PROJECT_DIR$/Assets/Plugins/Ink/Example/Scripts/BasicInkExample.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/NoteInputHandler.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Character.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Global.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/StoryController.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Walk.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Global.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/NoteControls.cs" />
       </list>
     </option>
   </component>
@@ -113,6 +116,7 @@
       <workItem from="1572469280490" duration="2914000" />
       <workItem from="1572725289104" duration="862000" />
       <workItem from="1572896349231" duration="3072000" />
+      <workItem from="1573064718588" duration="5958000" />
     </task>
     <servers />
   </component>
